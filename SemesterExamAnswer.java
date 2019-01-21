@@ -1,7 +1,7 @@
 package exam;
 /**
  *
- * @author knbrothers
+ * @author Nisanthan Kathirkamanathan
  */
 abstract class Vehicle{
     
